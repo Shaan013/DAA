@@ -106,13 +106,13 @@ This repository includes Java implementations for the following DAA practicals:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Shaan013/daa-practical-java.git
+git clone https://github.com/Shaan013/DAA.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd daa-practical-java
+cd DAA
 ```
 
 3. Compile the Java programs using the Java compiler (`javac`):
